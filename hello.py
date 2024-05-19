@@ -1,7 +1,9 @@
 print("Hello!")
 
 
-def meow():
-    print("No Hello, only Meow!")
-    
-meow()
+def meow(name):
+    print(f"No Hello, only Meow! Meow, dear {name}")
+
+gi
+whom = input("Your name: ")
+meow(whom)
