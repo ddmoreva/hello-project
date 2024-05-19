@@ -2,6 +2,6 @@ print("Hello!")
 
 
 def meow():
-    print("No Hello, only Meow!")
+    print("Good morning!git")
     
 meow()
